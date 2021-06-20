@@ -1,4 +1,4 @@
-# Robot-Arm-Comtrol
+# Robot-Arm-Control
 
 
 This repository is about creating a control panel web page for controlling six motors by its angles :
